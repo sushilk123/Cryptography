@@ -1,0 +1,2 @@
+# Cryptography
+Lightweight cryptography is an emerging field in the field of research, which endorses algorithms that are best suited for the constrained environments. Design metrics like Gate Equivalence (GE), Memory Requirement, Power Consumption, and Throughput play a vital role in the applications like IoT. In this project, I designed a lightweight cipher that needs only 1856 bytes of FLASH memory and 1272 bytes of RAM. It is also is robust against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack, and Avalanche attack.
